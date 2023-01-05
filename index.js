@@ -1,10 +1,10 @@
-// var num = 10;
+console.log(
+  "I hope every one is enjoying the 30 Days Of JavaScript challenge.\nDo you ?"
+); // line break
 
-function info() {
-  var num = 10;
-  console.log(num);
-}
+console.log("Days\tTopics\tExercises");
+console.log("Day 1\t3\t5");
 
-info();
+console.log("This is a back slash  symbol (\\)");
 
-console.log(num);
+`String literal text ${expression}`;
